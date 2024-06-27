@@ -2,6 +2,8 @@
 <p>$ sudo python3 -m venv nome_past_venv </p>
 <p>$ source nome_past_venv/bin/activate</p>
 <p>nome_past_venv $ pip install django </p>
+<h2>instalaçao do pillow</h2>
+$ python -m pip install pillow
 <p>Não use sudo dentro do terminal de venv</p>
 
 <h1>Teste a instalaçao do django</h1>
