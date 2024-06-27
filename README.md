@@ -7,7 +7,7 @@
 <h1>Teste a instalaçao do django</h1>
 $ django-admin --version
 
-<h1>Baixe o projeo na pasta dentro da "nome_past_venv"</h1> 
+<h1>Baixe o projeo na pasta dentro da pasta que esta o projeo ao lado da pasta > "nome_past_venv"</h1> 
 
 <h1>Rode o servidor </h1>
 $ python manage.py runserver
