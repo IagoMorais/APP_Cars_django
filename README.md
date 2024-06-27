@@ -13,3 +13,6 @@ $ django-admin --version
 
 <h1>Rode o servidor </h1>
 $ python manage.py runserver
+acesar link de conecçao e usar o "/admin" na URL para acessar os recurso 
+
+<h1>USUARIO: teste  SENHA: mo147258</h1>
